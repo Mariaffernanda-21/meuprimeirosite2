@@ -8,9 +8,10 @@ text-align: center;
 text-transform: uppercase;
 }
 
-p {
+ .textos{
     color:white;
     font-size: 30px;
+    text-align: center;
     
 
 }
