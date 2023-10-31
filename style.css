@@ -27,6 +27,11 @@ nav a {
    color: azure;
 }
 
+nav a:hover {
+   color: brown;
+   text-decoration: underline;
+}
+
 body {
    background-color: rgb(221, 0, 203);
 }
